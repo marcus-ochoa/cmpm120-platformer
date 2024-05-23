@@ -1,0 +1,447 @@
+{
+  "frames": {
+    "playerRed_walk5.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 64,
+        "h": 38
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_duck.png": {
+      "frame": {
+        "x": 0,
+        "y": 38,
+        "w": 56,
+        "h": 34
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 34
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 34
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_hit.png": {
+      "frame": {
+        "x": 64,
+        "y": 0,
+        "w": 56,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 38
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_up3.png": {
+      "frame": {
+        "x": 0,
+        "y": 72,
+        "w": 56,
+        "h": 38
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 38
+      },
+      "sourceSize": {
+        "w": 56,
+        "h": 38
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_switch1.png": {
+      "frame": {
+        "x": 56,
+        "y": 38,
+        "w": 52,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 52,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_swim2.png": {
+      "frame": {
+        "x": 0,
+        "y": 110,
+        "w": 48,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 48,
+        "h": 51
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_switch2.png": {
+      "frame": {
+        "x": 48,
+        "y": 110,
+        "w": 51,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_fall.png": {
+      "frame": {
+        "x": 120,
+        "y": 0,
+        "w": 39,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 50
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_swim1.png": {
+      "frame": {
+        "x": 108,
+        "y": 50,
+        "w": 47,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 47,
+        "h": 50
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_walk4.png": {
+      "frame": {
+        "x": 99,
+        "y": 100,
+        "w": 49,
+        "h": 42
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 42
+      },
+      "sourceSize": {
+        "w": 49,
+        "h": 42
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_stand.png": {
+      "frame": {
+        "x": 159,
+        "y": 0,
+        "w": 39,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_up1.png": {
+      "frame": {
+        "x": 159,
+        "y": 48,
+        "w": 39,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_walk1.png": {
+      "frame": {
+        "x": 155,
+        "y": 96,
+        "w": 39,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 48
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_dead.png": {
+      "frame": {
+        "x": 0,
+        "y": 161,
+        "w": 39,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_up2.png": {
+      "frame": {
+        "x": 39,
+        "y": 161,
+        "w": 39,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 46
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_walk2.png": {
+      "frame": {
+        "x": 78,
+        "y": 158,
+        "w": 39,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 45
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_walk3.png": {
+      "frame": {
+        "x": 117,
+        "y": 144,
+        "w": 39,
+        "h": 45
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 45
+      },
+      "sourceSize": {
+        "w": 39,
+        "h": 45
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "playerRed_roll.png": {
+      "frame": {
+        "x": 156,
+        "y": 144,
+        "w": 40,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 40,
+        "h": 40
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "character-texture.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 198,
+      "h": 207
+    },
+    "scale": 1
+  }
+}
