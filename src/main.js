@@ -1,13 +1,7 @@
-// Jim Whitehead
-// Created: 4/14/2024
+// Marcus Ochoa
+// CMPM 120 UCSC
+// Created: 5/21/2024
 // Phaser: 3.70.0
-//
-// Cubey
-//
-// An example of putting sprites on the screen using Phaser
-// 
-// Art assets from Kenny Assets "Shape Characters" set:
-// https://kenney.nl/assets/shape-characters
 
 // debug with extreme prejudice
 "use strict"
@@ -22,7 +16,7 @@ let config = {
     physics: {
         default: 'arcade',
         arcade: {
-            debug: true,
+            //debug: true,
             gravity: {
                 x: 0,
                 y: 0
@@ -30,7 +24,6 @@ let config = {
         }
     },
     width: 700,
-    // 1440 default
     height: 704,
     scene: [Load, Platformer]
 }
